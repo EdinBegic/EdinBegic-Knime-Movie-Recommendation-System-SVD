@@ -1,0 +1,63 @@
+
+{
+    "type":"object",
+    "properties":{
+        "int-input-74:70":{
+            "type":"integer",
+            "default":10,
+            "description":"Enter Description",
+            "example":10
+        },
+        "int-input-80":{
+            "type":"integer",
+            "default":0,
+            "description":"Enter Description",
+            "example":0
+        },
+        "single-selection-78":{
+            "type":"object",
+            "properties":{
+                "variable_value":{
+                    "type":"string",
+                    "default":"M"
+                }
+            },
+            "description":"Enter Description",
+            "example":{
+                "variable_value":"M"
+            }
+        },
+        "single-selection-77":{
+            "type":"object",
+            "properties":{
+                "variable_value":{
+                    "type":"string",
+                    "default":"student"
+                }
+            },
+            "description":"Enter Description",
+            "example":{
+                "variable_value":"student"
+            }
+        },
+        "single-selection-74:71":{
+            "type":"object",
+            "properties":{
+                "variable_value":{
+                    "type":"string",
+                    "default":"Horror"
+                }
+            },
+            "description":"Enter Description",
+            "example":{
+                "variable_value":"Horror"
+            }
+        },
+        "int-input-79":{
+            "type":"integer",
+            "default":0,
+            "description":"Enter Description",
+            "example":0
+        }
+    }
+}
