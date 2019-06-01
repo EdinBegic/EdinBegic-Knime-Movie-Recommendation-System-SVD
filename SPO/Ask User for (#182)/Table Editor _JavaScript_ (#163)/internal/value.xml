@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="viewValue">
+<config key="selection"/>
+<entry key="selectAll" type="xboolean" value="false"/>
+<entry key="pageSize" type="xint" value="0"/>
+<entry key="currentPage" type="xint" value="0"/>
+<entry key="filterString" type="xstring" isnull="true" value=""/>
+<config key="columnFilterStrings"/>
+<config key="currentOrder">
+<entry key="numSettings" type="xint" value="0"/>
+</config>
+<entry key="selectAllIndeterminate" type="xboolean" value="false"/>
+<entry key="hideUnselected" type="xboolean" value="false"/>
+<entry key="publishSelection" type="xboolean" value="true"/>
+<entry key="subscribeSelection" type="xboolean" value="true"/>
+<entry key="publishFilter" type="xboolean" value="true"/>
+<entry key="subscribeFilter" type="xboolean" value="true"/>
+<config key="editorChanges_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_tableEditorChanges"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<config key="editorChanges">
+<entry key="numRows" type="xint" value="17"/>
+<config key="rowEntry0">
+<entry key="rowKey" type="xstring" value="Row11500"/>
+<entry key="numCells" type="xint" value="1"/>
+<config key="cellEntry0">
+<entry key="colName" type="xstring" value="rating"/>
+<entry key="type" type="xstring" value="int"/>
+<entry key="value" type="xint" value="3"/>
+</config>
+</config>
+<config key="rowEntry1">
+<entry key="rowKey" type="xstring" value="Row8061"/>
+<entry key="numCells" type="xint" value="1"/>
+<config key="cellEntry0">
+<entry key="colName" type="xstring" value="rating"/>
+<entry key="type" type="xstring" value="int"/>
+<entry key="value" type="xint" value="0"/>
+</config>
+</config>
+<config key="rowEntry2">
+<entry key="rowKey" type="xstring" value="Row17041"/>
+<entry key="numCells" type="xint" value="1"/>
+<config key="cellEntry0">
+<entry key="colName" type="xstring" value="rating"/>
+<entry key="type" type="xstring" value="int"/>
+<entry key="value" type="xint" value="0"/>
+</config>
+</config>
+<config key="rowEntry3">
+<entry key="rowKey" type="xstring" value="Row5957"/>
+<entry key="numCells" type="xint" value="1"/>
+<config key="cellEntry0">
+<entry key="colName" type="xstring" value="rating"/>
+<entry key="type" type="xstring" value="int"/>
+<entry key="value" type="xint" value="4"/>
+</config>
+</config>
+<config key="rowEntry4">
+<entry key="rowKey" type="xstring" value="Row17802"/>
+<entry key="numCells" type="xint" value="1"/>
+<config key="cellEntry0">
+<entry key="colName" type="xstring" value="rating"/>
+<entry key="type" type="xstring" value="int"/>
+<entry key="value" type="xint" value="-1"/>
+</config>
+</config>
+<config key="rowEntry5">
+<entry key="rowKey" type="xstring" value="Row6851"/>
+<entry key="numCells" type="xint" value="1"/>
+<config key="cellEntry0">
+<entry key="colName" type="xstring" value="rating"/>
+<entry key="type" type="xstring" value="int"/>
+<entry key="value" type="xint" value="5"/>
+</config>
+</config>
+<config key="rowEntry6">
+<entry key="rowKey" type="xstring" value="Row22346"/>
+<entry key="numCells" type="xint" value="1"/>
+<config key="cellEntry0">
+<entry key="colName" type="xstring" value="rating"/>
+<entry key="type" type="xstring" value="int"/>
+<entry key="value" type="xint" value="3"/>
+</config>
+</config>
+<config key="rowEntry7">
+<entry key="rowKey" type="xstring" value="Row8004"/>
+<entry key="numCells" type="xint" value="1"/>
+<config key="cellEntry0">
+<entry key="colName" type="xstring" value="rating"/>
+<entry key="type" type="xstring" value="int"/>
+<entry key="value" type="xint" value="5"/>
+</config>
+</config>
+<config key="rowEntry8">
+<entry key="rowKey" type="xstring" value="Row1364"/>
+<entry key="numCells" type="xint" value="1"/>
+<config key="cellEntry0">
+<entry key="colName" type="xstring" value="rating"/>
+<entry key="type" type="xstring" value="int"/>
+<entry key="value" type="xint" value="-1"/>
+</config>
+</config>
+<config key="rowEntry9">
+<entry key="rowKey" type="xstring" value="Row24734"/>
+<entry key="numCells" type="xint" value="1"/>
+<config key="cellEntry0">
+<entry key="colName" type="xstring" value="rating"/>
+<entry key="type" type="xstring" value="int"/>
+<entry key="value" type="xint" value="5"/>
+</config>
+</config>
+<config key="rowEntry10">
+<entry key="rowKey" type="xstring" value="Row1197"/>
+<entry key="numCells" type="xint" value="1"/>
+<config key="cellEntry0">
+<entry key="colName" type="xstring" value="rating"/>
+<entry key="type" type="xstring" value="int"/>
+<entry key="value" type="xint" value="4"/>
+</config>
+</config>
+<config key="rowEntry11">
+<entry key="rowKey" type="xstring" value="Row15530"/>
+<entry key="numCells" type="xint" value="1"/>
+<config key="cellEntry0">
+<entry key="colName" type="xstring" value="rating"/>
+<entry key="type" type="xstring" value="int"/>
+<entry key="value" type="xint" value="-1"/>
+</config>
+</config>
+<config key="rowEntry12">
+<entry key="rowKey" type="xstring" value="Row27001"/>
+<entry key="numCells" type="xint" value="1"/>
+<config key="cellEntry0">
+<entry key="colName" type="xstring" value="rating"/>
+<entry key="type" type="xstring" value="int"/>
+<entry key="value" type="xint" value="1"/>
+</config>
+</config>
+<config key="rowEntry13">
+<entry key="rowKey" type="xstring" value="Row23261"/>
+<entry key="numCells" type="xint" value="1"/>
+<config key="cellEntry0">
+<entry key="colName" type="xstring" value="rating"/>
+<entry key="type" type="xstring" value="int"/>
+<entry key="value" type="xint" value="2"/>
+</config>
+</config>
+<config key="rowEntry14">
+<entry key="rowKey" type="xstring" value="Row9010"/>
+<entry key="numCells" type="xint" value="1"/>
+<config key="cellEntry0">
+<entry key="colName" type="xstring" value="rating"/>
+<entry key="type" type="xstring" value="int"/>
+<entry key="value" type="xint" value="3"/>
+</config>
+</config>
+<config key="rowEntry15">
+<entry key="rowKey" type="xstring" value="Row4928"/>
+<entry key="numCells" type="xint" value="1"/>
+<config key="cellEntry0">
+<entry key="colName" type="xstring" value="rating"/>
+<entry key="type" type="xstring" value="int"/>
+<entry key="value" type="xint" value="5"/>
+</config>
+</config>
+<config key="rowEntry16">
+<entry key="rowKey" type="xstring" value="Row10802"/>
+<entry key="numCells" type="xint" value="1"/>
+<config key="cellEntry0">
+<entry key="colName" type="xstring" value="rating"/>
+<entry key="type" type="xstring" value="int"/>
+<entry key="value" type="xint" value="-1"/>
+</config>
+</config>
+</config>
+<entry key="tableHash" type="xstring" value="78540d785f3f4e3abd5d85a97301e89c"/>
+</config>

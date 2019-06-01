@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+<entry key="node_file" type="xstring" value="settings.xml"/>
+<config key="flow_stack"/>
+<config key="internal_node_subsettings">
+<entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+</config>
+<config key="model">
+<entry key="label" type="xstring" value=""/>
+<entry key="description" type="xstring" value="Enter Description"/>
+<entry key="hideInWizard" type="xboolean" value="false"/>
+<entry key="customCSS" type="xstring" value=""/>
+<entry key="textFormat" type="xstring" value="Html"/>
+<entry key="text" type="xstring" value="&lt;H1&gt; Your Movie Rating&lt;/H1&gt;%%00010 &lt;font size=&quot;4&quot;&gt; %%00010Dear user, %%00010&lt;P&gt;&lt;/P&gt;%%00010we would like to know more about your movie preferences, before we dare recommend you a few new ones.%%00010&lt;P&gt;&lt;/P&gt;%%00010Please rate the movies in the list below.%%00010&lt;ol&gt; %%00010&lt;li&gt;&lt;font size=&quot;5&quot;&gt;&lt;b&gt;&amp;nbsp;0&lt;/b&gt;&lt;/font&gt; for movies you will never watch again;&lt;/li&gt;%%00010&lt;li&gt;&lt;font size=&quot;5&quot;&gt;&lt;b&gt;&amp;nbsp;5&lt;/b&gt;&lt;/font&gt; for great movies;&lt;/li&gt;%%00010%%00010&lt;/ol&gt;&lt;P&gt;&lt;/P&gt;%%00010&lt;em&gt;TCP team&lt;/em&gt;%%00010&lt;P&gt;&lt;/P&gt;%%00010&lt;/font&gt;"/>
+</config>
+<entry key="customDescription" type="xstring" isnull="true" value=""/>
+<entry key="state" type="xstring" value="EXECUTED"/>
+<entry key="factory" type="xstring" value="org.knime.js.base.node.output.text.TextOutputNodeFactory"/>
+<entry key="node-name" type="xstring" value="Text Output"/>
+<entry key="node-bundle-name" type="xstring" value="KNIME Quick Form Nodes"/>
+<entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.js.quickforms"/>
+<entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+<entry key="node-bundle-version" type="xstring" value="3.7.1.v201901281201"/>
+<entry key="node-feature-name" type="xstring" value="KNIME Quick Forms"/>
+<entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.js.quickforms.feature.group"/>
+<entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+<entry key="node-feature-version" type="xstring" value="3.7.1.v201901281201"/>
+<config key="factory_settings"/>
+<entry key="name" type="xstring" value="Text Output"/>
+<entry key="hasContent" type="xboolean" value="true"/>
+<entry key="isInactive" type="xboolean" value="false"/>
+<config key="ports"/>
+<config key="filestores">
+<entry key="file_store_location" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" value="0f6ec6f9-bcf2-4265-9bf7-3b2870b62157"/>
+</config>
+</config>
