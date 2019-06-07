@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
+from os import getcwd
 
 def avg(R):
     mu = 0
@@ -151,16 +152,15 @@ def findY(K, R, W, _X, _lambda, i):
 
 
 def main():
-    print("hello")
-    R = pd.read_csv("/Users/vedad/Other/etf/spo/project/Knime-Movie-Recommendation-System-SVD/data/R.csv")
-    W = pd.read_csv("/Users/vedad/Other/etf/spo/project/Knime-Movie-Recommendation-System-SVD/data/W.csv")
+    R = pd.read_csv(getcwd() + "/data/R.csv")
+    W = pd.read_csv(getcwd() + "/data/W.csv")
 
     R.drop(columns=R.columns[0], axis=1, inplace=True)
     W.drop(columns=W.columns[0], axis=1, inplace=True)
 
     X, Y, B = biased_als(R.values, W.values)
 
-    pd.DataFrame(np.dot(X, Y) + B).to_csv("/Users/vedad/Other/etf/spo/project/Knime-Movie-Recommendation-System-SVD/predictions.csv")
+    pd.DataFrame(np.dot(X, Y) + B).to_csv(getcwd() + "/predictions.csv")
 
 main()
 
